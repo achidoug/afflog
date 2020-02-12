@@ -1,8 +1,11 @@
+%This file contains all the predicates related to the domain of Settlers of Catan course 
 chapter(ch1;ch2;ch3;ch4).
 section(start;sect2;sect3;sect4;sect5;sect6;sect7;sect8;sect9;sect10;sect11;sect12;sect13;sect14;sect15;sect16;sect17;sect18;sect19;sect20;end).
 tutorial(tut1;tut2;tut3;tut4;tut5;tut6;tut7;tut8;tut9;tut10;tut11;tut12;tut13;tut14;tut15;tut16;tut17;tut18;tut19;tut20;tut21;tut22;tut23;tut24).
 test(test1;test2;test3;test4;test5;test6;test7).
 
+
+%Current tutorials (depicted as arrows). 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %start 2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17   18    19   20  end%
 %|-1-->|-2->|-3->|-4->|-5->|-6->|-7->|-8->|-9->|10->|11->|12->|13->|14->|15->|16->|17->|18->|20->|19->| %  
