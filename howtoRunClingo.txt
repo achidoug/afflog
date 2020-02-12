@@ -1,0 +1,28 @@
+
+
+
+
+
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\guide-2.0-examples\guide-2.0-examples\opt.lp
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\guide-2.0-examples\guide-2.0-examples\aggr.lp
+
+
+Planner testdomain
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\work\step\domainTest.lp C:\Users\achid\Dropbox\PHD\work\step\DEC.lp C:\Users\achid\Dropbox\PHD\work\step\afflogPlanner.lp C:\Users\achid\Dropbox\PHD\work\step\afflogPlannerInput.lp -n 0 -c maxstep=5
+
+
+Planner catandomain
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\work\catandomainModel.lp C:\Users\achid\Dropbox\PHD\work\step\DEC.lp C:\Users\achid\Dropbox\PHD\work\step\afflogPlanner.lp C:\Users\achid\Dropbox\PHD\work\step\afflogPlannerInput.lp -n 0 -c maxstep=5
+
+
+
+
+
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\work\step\optimizetest.lp -n 0  
+
+
+
+
+
+ffeed
+C:\Users\achid\OneDrive\Desktop\clingo-4.5.0-win64\clingo-4.5.0-win64\clingo.exe C:\Users\achid\Dropbox\PHD\work\ffeed.lp C:\Users\achid\Dropbox\PHD\work\catandomainModel.lp C:\Users\achid\Dropbox\PHD\work\step\DEC.lp C:\Users\achid\Dropbox\PHD\work\ffeedInput.lp -n 0 -c maxstep=2
